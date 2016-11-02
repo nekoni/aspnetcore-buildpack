@@ -16,9 +16,9 @@ ENV_DIR=$3
 #bower -v
 
 #: ${LIBUV_VERSION:="1.8.0"}
-: ${CORE_BRANCH:="Sdk"}
-: ${CORE_REL_VERSION:="rel-1.0.0"}
-: ${CORE_VERSION:="latest"}
+: ${CORE_BRANCH:="preview/Binaries"}
+: ${CORE_REL_VERSION:="1.0.0-preview2-003121"}
+: ${CORE_VERSION:="1.0.0-preview2-003121"}
 : ${CORE_RUNTIME:="Active"}
 : ${NODE_VERSION:="6.3.1"}
 
